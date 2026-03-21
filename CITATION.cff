@@ -1,23 +1,21 @@
 cff-version: 1.2.0
-message: "Please cite this dataset using the metadata below."
+message: "If you use this software/dataset, please cite it as below."
 type: dataset
-title: "Evolución del Crimen en Latinoamérica 2015-2024: Base de Datos por Categorías"
+title: "Base de datos sobre la evoluci&oacute;n del crimen en Am&eacute;rica Latina y el Caribe durante el per&iacute;odo 2015-2024, compilada a partir de fuentes secundarias (UNODC, Insight Crime, Prosegur Research, Banco Mundial, CEPAL, ONU Mujeres e Infos"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
     orcid: "https://orcid.org/0000-0002-8401-8018"
     affiliation: "Universidad Internacional de La Rioja (UNIR)"
-doi: "10.5281/zenodo.18740062"
-url: "https://doi.org/10.5281/zenodo.18740062"
+    email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/evolucion-del-crimen-en-latinoamerica-2015-2024-base-de-datos-por-categorias"
-license: CC0-1.0
-date-released: "2026-02-23"
+url: "https://juanmoisesd.github.io/evolucion-del-crimen-en-latinoamerica-2015-2024-base-de-datos-por-categorias/"
+abstract: "Base de datos sobre la evoluci&oacute;n del crimen en Am&eacute;rica Latina y el Caribe durante el per&iacute;odo 2015-2024, compilada a partir de fuentes secundarias (UNODC, Insight Crime, Prosegur Research, Banco Mundial, CEPAL, ONU Mujeres e Infos"
 keywords:
-  - "crimen"
-  - "homicidios"
-  - "Latinoamérica"
-  - "narcotráfico"
-  - "violencia"
-  - "seguridad"
-  - "femicidio"
-  - "crimen organizado"
+  - open-data
+  - dataset
+  - research
+  - science
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-03-20"
