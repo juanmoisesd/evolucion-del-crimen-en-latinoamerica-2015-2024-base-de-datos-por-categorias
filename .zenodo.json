@@ -1,0 +1,36 @@
+{
+  "title": "Base de datos sobre la evoluci&oacute;n del crimen en Am&eacute;rica Latina y el Caribe durante el per&iacute;odo 2015-2024, compilada a partir de fuentes secundarias (UNODC, Insight Crime, Prosegur Research, Banco Mundial, CEPAL, ONU Mujeres e Infos",
+  "description": "Base de datos sobre la evoluci&oacute;n del crimen en Am&eacute;rica Latina y el Caribe durante el per&iacute;odo 2015-2024, compilada a partir de fuentes secundarias (UNODC, Insight Crime, Prosegur Research, Banco Mundial, CEPAL, ONU Mujeres e Infos",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "open-data",
+    "dataset",
+    "research",
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/evolucion-del-crimen-en-latinoamerica-2015-2024-base-de-datos-por-categorias",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
