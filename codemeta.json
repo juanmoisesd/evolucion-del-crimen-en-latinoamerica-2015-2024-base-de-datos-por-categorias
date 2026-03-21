@@ -1,26 +1,42 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Evoluci\u00f3n del Crimen en Latinoam\u00e9rica 2015-2024: Base de Datos por Categor\u00edas",
-  "identifier": "10.5281/zenodo.18740062",
-  "url": "https://doi.org/10.5281/zenodo.18740062",
+  "@type": "SoftwareSourceCode",
+  "name": "Base de datos sobre la evoluci&oacute;n del crimen en Am&eacute;rica Latina y el Caribe durante el per&iacute;odo 2015-2024, compilada a partir de fuentes secundarias (UNODC, Insight Crime, Prosegur Research, Banco Mundial, CEPAL, ONU Mujeres e Infos",
+  "description": "Base de datos sobre la evoluci&oacute;n del crimen en Am&eacute;rica Latina y el Caribe durante el per&iacute;odo 2015-2024, compilada a partir de fuentes secundarias (UNODC, Insight Crime, Prosegur Research, Banco Mundial, CEPAL, ONU Mujeres e Infos",
+  "url": "https://github.com/juanmoisesd/evolucion-del-crimen-en-latinoamerica-2015-2024-base-de-datos-por-categorias",
+  "codeRepository": "https://github.com/juanmoisesd/evolucion-del-crimen-en-latinoamerica-2015-2024-base-de-datos-por-categorias",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "crimen",
-    "homicidios",
-    "Latinoam\u00e9rica",
-    "narcotr\u00e1fico",
-    "violencia",
-    "seguridad",
-    "femicidio",
-    "crimen organizado"
-  ]
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
