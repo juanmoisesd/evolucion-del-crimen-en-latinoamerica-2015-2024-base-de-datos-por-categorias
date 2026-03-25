@@ -3,24 +3,18 @@
   "@type": "SoftwareSourceCode",
   "name": "Base de datos sobre la evoluci&oacute;n del crimen en Am&eacute;rica Latina y el Caribe durante el p",
   "version": "1.0.0",
-  "identifier": "https://github.com/juanmoisesd/evolucion-del-crimen-en-latinoamerica-2015-2024-base-de-datos-por-categorias",
-  "datePublished": "2025",
+  "identifier": "https://juanmoisesd.github.io/evolucion-del-crimen-en-latinoamerica-2015-2024-base-de-datos-por-categorias/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "codeRepository": "https://github.com/juanmoisesd/evolucion-del-crimen-en-latinoamerica-2015-2024-base-de-datos-por-categorias",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Universidad Internacional de La Rioja (UNIR)"
-      }
+      "familyName": "de la Serna"
     }
   ],
   "programmingLanguage": [
     "Python",
     "Jupyter Notebook"
-  ],
-  "keywords": "cc0, citation, crime-data, criminology, dataset, fair-data, iberoamerica, juan-moises-de-la-serna, latam, latin-america, open-data, open-science, orcid, research, security, zenodo"
+  ]
 }
